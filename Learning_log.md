@@ -41,3 +41,50 @@
 ### Status
 
 ✅ Day 1 Completed Successfully.....
+
+
+# Day 2 - 5 August 2026
+
+## Topics Covered
+
+- Python Keywords
+- Comments in Python
+
+- Operators
+  - Arithmetic Operators
+  - Relational Operators
+  - Logical Operators
+  - Assignment Operators
+  - Membership Operators
+
+- Type Conversion
+  - Implicit Type Conversion
+  - Explicit Type Conversion
+
+- Input in Python
+
+- Strings
+  - String Basics
+  - Indexing
+  - Slicing
+  - String Methods
+    - upper()
+    - lower()
+    - capitalize()
+    - endswith()
+    - startswith()
+    - find()
+    - count()
+    - replace()
+    - split()
+    - strip()
+
+- Conditional Statements
+  - if
+  - if-else
+  - if-elif-else
+  - Comparison Operators
+
+## Status
+
+✅ Day 2 Completed.....
