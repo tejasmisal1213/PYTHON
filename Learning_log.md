@@ -88,3 +88,30 @@
 ## Status
 
 ✅ Day 2 Completed.....
+
+# Day 3 - 6 August 2026
+
+## Topics Covered
+
+- Lists
+  - Indexing
+  - Slicing
+  - append()
+  - insert()
+  - remove()
+  - pop()
+  - sort()
+  - reverse()
+
+- Tuples
+  - Indexing
+  - Slicing
+  - count()
+  - index()
+  - Single Element Tuple
+
+- Taking User Input in Lists
+
+## Status
+
+✅ Day 3 Completed
