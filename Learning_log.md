@@ -115,3 +115,31 @@
 ## Status
 
 ✅ Day 3 Completed
+
+# Day 4 - 7 August 2026
+
+## Topics Covered
+
+- Dictionary
+  - Key-Value Pairs
+  - Accessing Values
+  - Adding New Keys
+  - Updating Values
+  - keys()
+  - values()
+  - items()
+  - get()
+  - update()
+
+- Set
+  - Creating Sets
+  - add()
+  - remove()
+  - union()
+  - intersection()
+  - Unique Elements
+  - No Duplicate Values
+
+## Status
+
+✅ Day 4 Completed.....
