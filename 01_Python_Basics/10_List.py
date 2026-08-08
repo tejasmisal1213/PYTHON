@@ -7,7 +7,6 @@ print(student[0])
 # List slicing
 marks = [10, 20, 30, 40, 50]
 print(marks[1:4])
-print(marks[:3])
 print(marks[2:5])
 print(marks[::2]) # gap of 2
 print(marks[::-1]) # reverse the list
