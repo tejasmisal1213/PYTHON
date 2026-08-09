@@ -143,3 +143,26 @@
 ## Status
 
 ✅ Day 4 Completed.....
+
+# Day 5 - 9 August 2026
+
+## Topics Covered
+
+- Loops in Python
+  - for Loop
+  - while Loop
+  - range()
+  - break
+  - continue
+  - pass
+
+## Practice
+
+- Practiced iterating using for loop
+- Practiced while loop with conditions
+- Practiced range() with different values
+- Practiced break and continue statements
+
+## Status
+
+✅ Day 5 Completed.....
