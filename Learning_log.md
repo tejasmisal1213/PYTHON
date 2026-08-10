@@ -166,3 +166,35 @@
 ## Status
 
 ✅ Day 5 Completed.....
+
+# Day 6 - 10 August 2026
+
+## Topics Covered
+
+- Functions
+  - Defining Functions
+  - Calling Functions
+  - Parameters
+  - Multiple Parameters
+  - Return Statement
+  - Default Parameters
+  - Built-in Functions
+  - User-defined Functions
+
+- Recursion
+  - Recursive Functions
+  - Base Condition
+  - Recursive Calls
+  - Recursive Factorial
+
+## Practice
+
+- Created and called functions
+- Practiced parameters and return values
+- Practiced default parameters
+- Created recursive functions
+- Practiced factorial using recursion
+
+## Status
+
+✅ Day 6 Completed
