@@ -197,4 +197,38 @@
 
 ## Status
 
-✅ Day 6 Completed
+✅ Day 6 Completed.....
+
+# Day 7 - 11 August 2026
+
+## Topics Covered
+
+- File Input and Output
+- File Handling
+- Opening Files
+- Reading Files
+- Writing Files
+- Appending Files
+- File Modes
+  - r
+  - w
+  - a
+  - x
+- read()
+- readline()
+- readlines()
+- write()
+- close()
+- with Statement
+
+## Practice
+
+- Created and wrote to a file
+- Read data from a file
+- Appended data to a file
+- Practiced reading files line by line
+- Used the with statement
+
+## Status
+
+✅ Day 7 Completed.....
