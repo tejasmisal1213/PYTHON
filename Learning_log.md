@@ -232,3 +232,16 @@
 ## Status
 
 ✅ Day 7 Completed.....
+---
+
+# Day 8 - 12 August 2026
+
+## Today's Plan
+
+- Continue Python learning
+- Practice previously learned concepts
+- Study the next Python topic
+
+## Status
+
+🔄 In Progress
