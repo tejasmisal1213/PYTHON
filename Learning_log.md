@@ -236,12 +236,21 @@
 
 # Day 8 - 12 August 2026
 
-## Today's Plan
+---
 
-- Continue Python learning
-- Practice previously learned concepts
-- Study the next Python topic
+# Day 8 - 12 August 2026
+
+## Topics Covered
+
+- Object-Oriented Programming (OOP)
+- Classes
+- Objects
+
+## Practice
+
+- Learned the basic concepts of Classes and Objects.
+- Created a basic class and object example in Python.
 
 ## Status
 
-🔄 In Progress
+🔄 OOP in Progress
