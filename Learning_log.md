@@ -232,11 +232,8 @@
 ## Status
 
 ✅ Day 7 Completed.....
----
 
-# Day 8 - 12 August 2026
 
----
 
 # Day 8 - 12 August 2026
 
@@ -245,11 +242,22 @@
 - Object-Oriented Programming (OOP)
 - Classes
 - Objects
+- Attributes
+- Methods
+- Constructors
+  - __init__()
+- self
+- Instance Methods
+- Static Methods
+- Class Methods
 
 ## Practice
 
-- Learned the basic concepts of Classes and Objects.
-- Created a basic class and object example in Python.
+- Created classes and objects.
+- Practiced constructors using __init__().
+- Practiced instance methods.
+- Practiced static methods.
+- Practiced class methods.
 
 ## Status
 
