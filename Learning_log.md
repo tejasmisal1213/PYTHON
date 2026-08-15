@@ -237,27 +237,25 @@
 
 # Day 8 - 12 August 2026
 
+---
+
+# Day 8 - 12 August 2026
+
 ## Topics Covered
 
 - Object-Oriented Programming (OOP)
 - Classes
 - Objects
-- Attributes
-- Methods
 - Constructors
-  - __init__()
-- self
 - Instance Methods
 - Static Methods
 - Class Methods
 
 ## Practice
 
-- Created classes and objects.
-- Practiced constructors using __init__().
-- Practiced instance methods.
-- Practiced static methods.
-- Practiced class methods.
+- Created basic classes and objects.
+- Practiced constructors using `__init__()`.
+- Practiced instance, static, and class methods.
 
 ## Status
 
