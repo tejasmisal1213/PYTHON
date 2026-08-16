@@ -260,3 +260,27 @@
 ## Status
 
 🔄 OOP in Progress
+
+ 
+
+# Day 9 - 16 August 2026
+
+## Topics Covered
+
+- Object-Oriented Programming (OOP)
+- Abstraction
+- Abstract Classes
+- Abstract Methods
+- ABC
+- @abstractmethod
+
+## Practice
+
+- Created an abstract class.
+- Created an abstract method using `@abstractmethod`.
+- Implemented the abstract method in a child class.
+- Practiced a simple abstraction example.
+
+## Status
+
+✅ Day 9 Completed
