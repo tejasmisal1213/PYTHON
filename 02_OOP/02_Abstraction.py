@@ -1,27 +1,13 @@
+class Car:
+    def __init__(self):
+        self.acc = False
+        self.brk = False
+        self.clutch = False
 
-from abc import ABC, abstractmethod
+    def Start(self):
+        self.clutch = True
+        self.acc = True
+        print("Car Started...!")
 
-class Animal(ABC):
-
-    @abstractmethod
-    def sound(self):
-        pass
-
-
-class Dog(Animal):
-
-    def sound(self):
-        print("Dog barks")
-
-
-class Cat(Animal):
-
-    def sound(self):
-        print("Cat meows")
-
-
-dog = Dog()
-cat = Cat()
-
-dog.sound()
-cat.sound()
+c1 = Car()
+c1.Start()

@@ -283,4 +283,26 @@
 
 ## Status
 
-✅ Day 9 Completed
+✅ Day 9 Completed.....
+
+# Day 10 - 17 August 2026
+
+## Topics Covered
+
+- Object-Oriented Programming (OOP)
+- Polymorphism
+- Operator Overloading
+- Dunder Functions
+- Magic Methods / Special Methods
+
+## Practice
+
+- Practiced polymorphism using different class methods.
+- Practiced method overriding.
+- Practiced operator overloading using `__add__()`.
+- Learned about dunder functions.
+- Practiced `__init__()` and `__add__()`.
+
+## Status
+
+🔄 OOP in Progress

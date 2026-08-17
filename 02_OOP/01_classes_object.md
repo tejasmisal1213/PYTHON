@@ -42,4 +42,9 @@ A static method does not depend on the object or class data.
 - @staticmethod
   def add(a, b):
  
- 
+ ### Important Points
+- Uses @staticmethod
+- Does not use self
+- Does not use cls
+- Does not depend on object or class data
+- Can be called using the class name
