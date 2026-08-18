@@ -305,4 +305,38 @@
 
 ## Status
 
-🔄 OOP in Progress
+🔄 OOP in Progress.....
+
+---
+
+# Day 11 - OOP Practice
+
+## Topics Covered
+
+- OOP Revision
+- Classes and Objects
+- Constructors
+- Instance Methods
+- Static Methods
+- Encapsulation
+- Getter and Setter
+- Inheritance
+- Method Overriding
+- Polymorphism
+- Operator Overloading
+- Dunder Functions
+- Abstraction
+
+## Practice
+
+- Practiced creating classes and objects.
+- Practiced constructors and object attributes.
+- Practiced instance and static methods.
+- Practiced encapsulation using getter and setter methods.
+- Practiced inheritance and method overriding.
+- Practiced polymorphism and operator overloading.
+- Practiced abstraction using abstract classes and methods.
+
+## Status
+
+🔄 OOP Practice in Progress
