@@ -339,4 +339,19 @@
 
 ## Status
 
-🔄 OOP Practice in Progress
+🔄 OOP Practice in Progress.....
+
+## Day 15 - 19 August 2026
+
+### Topics Covered
+- Revised Python basics
+- Revised Classes and Objects
+- Practiced Constructors (`__init__`)
+- Practiced Instance Variables and Methods
+- Learned `__dict__`
+- Learned Class Variables
+- Learned Class Methods (`@classmethod`)
+
+### Status
+✅ Completed
+
