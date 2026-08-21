@@ -353,5 +353,60 @@
 - Learned Class Methods (`@classmethod`)
 
 ### Status
-✅ Completed
+✅ Completed.....
 
+## Day 16 - 20 August 2026
+
+### Topics Covered
+
+- Introduced NumPy and its importance in AI/ML
+
+- Installed and imported NumPy using import numpy as np
+
+- Learned NumPy Arrays (ndarray)
+
+- Compared Python Lists and NumPy Arrays
+
+- Practiced Array Indexing
+
+- Practiced Basic Array Arithmetic Operations
+
+- Learned dtype and float64
+
+- Learned Array Properties: ndim, shape, and size
+
+- Learned np.zeros()
+
+- Learned np.ones()
+
+### Status
+
+✅ Completed.....
+
+**## Day 17 - 21 August 2026**
+
+**### Topics Covered**
+
+- Learned NumPy Array Basics
+
+- Practiced 1D, 2D, and 3D Arrays
+
+- Learned `np.zeros()`
+
+- Learned `np.ones()`
+
+- Learned `np.empty()`
+
+- Learned `np.full()`
+
+- Learned `np.arange()`
+
+- Learned `np.linspace()`
+
+- Practiced Array `ndim`, `shape`, `size`, and `dtype`
+
+- Compared `np.arange()` and `np.linspace()`
+
+### Status 
+
+✅ Completed.....
