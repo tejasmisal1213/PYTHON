@@ -383,9 +383,9 @@
 
 ✅ Completed.....
 
-**## Day 17 - 21 August 2026**
+## Day 17 - 21 August 2026
 
-**### Topics Covered**
+### Topics Covered
 
 - Learned NumPy Array Basics
 
@@ -410,3 +410,18 @@
 ### Status 
 
 ✅ Completed.....
+
+## Day 18 - 22 August 2026
+
+### Topics Covered
+
+- Learned NumPy Array Dimensions
+- Learned 0D, 1D, 2D, 3D, and 4D    
+  Arrays
+- Learned `ndim`
+- Learned how to interpret array `shape`
+- Practiced calculating total elements using array dimensions
+ 
+### Status
+
+🔄 In Progress.....
