@@ -27,3 +27,21 @@ print(arr)
 print(arr.ndim)
 print(arr.shape)
 print(arr.size)
+
+
+
+# 3D axes
+import numpy as np 
+arr = np.array([
+    [[1,2,],
+     [3,4]],
+    [[5,6],
+     [7,8]]
+    ])
+# print(arr)
+# print(arr.shape)
+# print(arr.ndim)
+
+print(np.sum(arr , axis = 0))   # Matrix 1          Matrix 2
+print(np.sum(arr , axis = 1))   #  1  2              5  6 
+print(np.sum(arr , axis = 2))   #  3  4              7  8

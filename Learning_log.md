@@ -425,3 +425,26 @@
 ### Status
 
 🔄 In Progress.....
+
+## Day 19 - 23 August 2026
+
+### Topics Covered
+
+- Completed NumPy Array Dimensions
+- Learned 3D Array Axes
+- Practiced `axis=0`, `axis=1`, and `axis=2`
+
+- Learned how axis operations affect 
+   output shape
+- Learned NumPy Array Properties
+- Learned `ndim`
+- Learned `shape`
+- Learned `size`
+- Learned `dtype`
+- Learned `itemsize`
+- Learned `nbytes`
+- Learned the relationship between `dtype`, `itemsize`, and memory usage
+ 
+### Status
+
+✅ Completed.....
