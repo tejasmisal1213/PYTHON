@@ -388,23 +388,14 @@
 ### Topics Covered
 
 - Learned NumPy Array Basics
-
 - Practiced 1D, 2D, and 3D Arrays
-
 - Learned `np.zeros()`
-
 - Learned `np.ones()`
-
 - Learned `np.empty()`
-
 - Learned `np.full()`
-
 - Learned `np.arange()`
-
 - Learned `np.linspace()`
-
 - Practiced Array `ndim`, `shape`, `size`, and `dtype`
-
 - Compared `np.arange()` and `np.linspace()`
 
 ### Status 
@@ -445,6 +436,29 @@
 - Learned `nbytes`
 - Learned the relationship between `dtype`, `itemsize`, and memory usage
  
+### Status
+
+✅ Completed.....
+
+## Day 20 - 24 August 2026
+
+### Topics Covered
+
+- Learned NumPy Array Indexing
+- Practiced 1D Array Indexing
+- Learned Positive Indexing
+- Learned Negative Indexing
+- Practiced 2D Array Indexing
+- Learned Row and Column Access
+- Learned the use of `:` for accessing complete rows and columns
+- Practiced Negative Indexing in 2D Arrays
+- Practiced 3D Array Indexing
+- Learned Block, Row, and Column Indexing in 3D Arrays
+- Practiced Complete Block Access
+- Practiced Complete Row and Column Access in 3D Arrays
+- Learned General Indexing Patterns for 1D, 2D, and 3D Arrays
+- Connected NumPy Indexing with AI/ML Data and Tensors
+
 ### Status
 
 ✅ Completed.....
