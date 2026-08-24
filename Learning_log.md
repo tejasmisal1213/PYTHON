@@ -462,3 +462,29 @@
 ### Status
 
 ✅ Completed.....
+
+## Day 20 - 24 August 2026
+
+### Topics Covered
+
+- Learned NumPy Array Indexing
+- Practiced 1D Array Indexing
+- Learned Positive Indexing
+- Learned Negative Indexing
+- Practiced 2D Array Indexing
+- Learned Row and Column Access
+- Learned the use of `:` for accessing complete rows and columns
+- Practiced 3D Array Indexing
+- Learned Block, Row, and Column Indexing in 3D Arrays
+- Learned NumPy Array Slicing
+- Learned Start, Stop, and Step
+- Practiced 1D Array Slicing
+- Practiced Negative Step and Reverse Slicing
+- Practiced 2D Array Slicing
+- Practiced Row and Column Slicing
+- Practiced 3D Array Slicing
+- Connected NumPy Slicing with AI/ML Data and Tensors
+
+### Status
+
+✅ Completed.....
