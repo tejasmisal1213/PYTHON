@@ -488,3 +488,19 @@
 ### Status
 
 ✅ Completed.....
+
+## Day 21 - 25 August 2026
+
+### Topics Covered
+
+- Revised NumPy Array Data Types
+- Learned explicit `dtype` specification
+- Learned `astype()`
+- Practiced Integer to Float conversion
+- Practiced Float to Integer conversion
+- Practiced Boolean conversion
+- Learned about possible data loss during type conversion
+
+### Status
+
+🔄 In Progress.....
