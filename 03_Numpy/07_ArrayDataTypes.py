@@ -14,7 +14,7 @@ float_arr = arr.astype(np.float32)
 arr = np.array([10, 20, 30])
 new_arr = arr.astype(np.float32)
 print(new_arr)
-print(new_arr.dtype)
+
 
 # 2. Float → Integer
 arr = np.array([10.9, 20.5, 30.2])

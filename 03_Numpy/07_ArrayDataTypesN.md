@@ -43,6 +43,9 @@
 
 ## Important
 
-- `astype()` creates a converted array.
-- Converting between data types can cause data loss.
-- Data type conversion is useful when preparing numerical data for AI/ML workflows.
+- `astype()` creates a converted 
+   array.
+- Converting between data types can 
+  cause data loss.
+- Data type conversion is useful when 
+  preparing numerical data for AI/ML workflows.
