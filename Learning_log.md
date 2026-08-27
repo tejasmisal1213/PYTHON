@@ -463,7 +463,7 @@
 
 ✅ Completed.....
 
-## Day 20 - 24 August 2026
+## Day 20 - 25 August 2026
 
 ### Topics Covered
 
@@ -489,7 +489,7 @@
 
 ✅ Completed.....
 
-## Day 21 - 25 August 2026
+## Day 21 - 26 August 2026
 
 ### Topics Covered
 
@@ -500,6 +500,31 @@
 - Practiced Float to Integer conversion
 - Practiced Boolean conversion
 - Learned about possible data loss during type conversion
+
+### Status
+
+✅ Completed.....
+
+## Day 22 - 27 August 2026
+
+### Topics Covered
+
+- Completed NumPy Array Data Types
+- Learned `astype()` for data type conversion
+- Learned Integer to Float conversion
+- Learned Float to Integer conversion
+- Learned Boolean conversion
+- Learned NumPy Array Creation
+- Learned `np.zeros()`
+- Learned `np.ones()`
+- Learned `np.full()`
+- Learned `np.empty()`
+- Learned `np.arange()`
+- Learned `np.linspace()`
+- Learned `np.eye()`
+- Learned `np.diag()`
+- Learned `np.zeros_like()`, `np.ones_like()`, and `np.full_like()`
+- Connected array creation with AI/ML data preparation
 
 ### Status
 
