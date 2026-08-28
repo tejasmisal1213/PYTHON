@@ -27,15 +27,21 @@
 
 ### Key Learnings
 
-* Learned how to create and use variables in Python.
-* Understood the rules for naming identifiers.
-* Learned the purpose of different data types.
-* Practiced simple programs using variables and data types.
+* Learned how to create and use 
+  variables in Python.
+* Understood the rules for naming 
+  identifiers.
+* Learned the purpose of different 
+  data types.
+* Practiced simple programs using 
+  variables and data types.
 
 ### Practice Completed
 
-* Created variables with different data types.
-* Checked data types using the `type()` function.
+* Created variables with different 
+  data types.
+* Checked data types using the `type()
+  ` function.
 * Practiced identifier naming rules.
 
 ### Status
@@ -160,8 +166,10 @@
 
 - Practiced iterating using for loop
 - Practiced while loop with conditions
-- Practiced range() with different values
-- Practiced break and continue statements
+- Practiced range() with different 
+  values
+- Practiced break and continue 
+  statements
 
 ## Status
 
@@ -190,7 +198,8 @@
 ## Practice
 
 - Created and called functions
-- Practiced parameters and return values
+- Practiced parameters and return 
+  values
 - Practiced default parameters
 - Created recursive functions
 - Practiced factorial using recursion
@@ -250,7 +259,8 @@
 
 - Created basic classes and objects.
 - Practiced constructors using `__init__()`.
-- Practiced instance, static, and class methods.
+- Practiced instance, static, and 
+  class methods.
 
 ## Status
 
@@ -273,8 +283,10 @@
 
 - Created an abstract class.
 - Created an abstract method using `@abstractmethod`.
-- Implemented the abstract method in a child class.
-- Practiced a simple abstraction example.
+- Implemented the abstract method in 
+  a child class.
+- Practiced a simple abstraction 
+  example.
 
 ## Status
 
@@ -292,9 +304,11 @@
 
 ## Practice
 
-- Practiced polymorphism using different class methods.
+- Practiced polymorphism using 
+  different class methods.
 - Practiced method overriding.
-- Practiced operator overloading using `__add__()`.
+- Practiced operator overloading 
+  using `__add__()`.
 - Learned about dunder functions.
 - Practiced `__init__()` and `__add__()`.
 
@@ -302,7 +316,7 @@
 
 🔄 OOP in Progress.....
 
----
+ 
 
 # Day 11 - OOP Practice
 
@@ -324,13 +338,20 @@
 
 ## Practice
 
-- Practiced creating classes and objects.
-- Practiced constructors and object attributes.
-- Practiced instance and static methods.
-- Practiced encapsulation using getter and setter methods.
-- Practiced inheritance and method overriding.
-- Practiced polymorphism and operator overloading.
-- Practiced abstraction using abstract classes and methods.
+- Practiced creating classes and 
+  objects.
+- Practiced constructors and object 
+  attributes.
+- Practiced instance and static 
+  methods.
+- Practiced encapsulation using 
+  getter and setter methods.
+- Practiced inheritance and method 
+  overriding.
+- Practiced polymorphism and operator 
+  overloading.
+- Practiced abstraction using 
+  abstract classes and methods.
 
 ## Status
 
@@ -342,7 +363,8 @@
 - Revised Python basics
 - Revised Classes and Objects
 - Practiced Constructors (`__init__`)
-- Practiced Instance Variables and Methods
+- Practiced Instance Variables and 
+  Methods
 - Learned `__dict__`
 - Learned Class Variables
 - Learned Class Methods (`@classmethod`)
@@ -354,24 +376,19 @@
 
 ### Topics Covered
 
-- Introduced NumPy and its importance in AI/ML
-
-- Installed and imported NumPy using import numpy as np
-
+- Introduced NumPy  
+- Installed and imported NumPy using 
+  import numpy as np
 - Learned NumPy Arrays (ndarray)
-
-- Compared Python Lists and NumPy Arrays
-
+- Compared Python Lists and NumPy 
+  Arrays
 - Practiced Array Indexing
-
-- Practiced Basic Array Arithmetic Operations
-
+- Practiced Basic Array Arithmetic 
+  Operations
 - Learned dtype and float64
-
-- Learned Array Properties: ndim, shape, and size
-
+- Learned Array Properties: ndim, 
+  shape, and size
 - Learned np.zeros()
-
 - Learned np.ones()
 
 ### Status
@@ -390,8 +407,10 @@
 - Learned `np.full()`
 - Learned `np.arange()`
 - Learned `np.linspace()`
-- Practiced Array `ndim`, `shape`, `size`, and `dtype`
-- Compared `np.arange()` and `np.linspace()`
+- Practiced Array `ndim`, `shape`, 
+  `size`, and `dtype`
+- Compared `np.arange()` and `np.
+  linspace()`
 
 ### Status 
 
@@ -405,8 +424,10 @@
 - Learned 0D, 1D, 2D, 3D, and 4D    
   Arrays
 - Learned `ndim`
-- Learned how to interpret array `shape`
-- Practiced calculating total elements using array dimensions
+- Learned how to interpret array 
+  `shape`
+- Practiced calculating total 
+  elements using array dimensions
  
 ### Status
 
@@ -445,14 +466,18 @@
 - Learned Negative Indexing
 - Practiced 2D Array Indexing
 - Learned Row and Column Access
-- Learned the use of `:` for accessing complete rows and columns
-- Practiced Negative Indexing in 2D Arrays
+- Learned the use of `:` for 
+  accessing complete rows and columns
+- Practiced Negative Indexing in 2D 
+  Arrays
 - Practiced 3D Array Indexing
-- Learned Block, Row, and Column Indexing in 3D Arrays
+- Learned Block, Row, and Column 
+  Indexing in 3D Arrays
 - Practiced Complete Block Access
-- Practiced Complete Row and Column Access in 3D Arrays
-- Learned General Indexing Patterns for 1D, 2D, and 3D Arrays
-- Connected NumPy Indexing with AI/ML Data and Tensors
+- Practiced Complete Row and Column 
+  Access in 3D Arrays
+- Learned General Indexing Patterns 
+  for 1D, 2D, and 3D Arrays. 
 
 ### Status
 
@@ -468,17 +493,19 @@
 - Learned Negative Indexing
 - Practiced 2D Array Indexing
 - Learned Row and Column Access
-- Learned the use of `:` for accessing complete rows and columns
+- Learned the use of `:` for 
+  accessing complete rows and columns
 - Practiced 3D Array Indexing
-- Learned Block, Row, and Column Indexing in 3D Arrays
+- Learned Block, Row, and Column 
+  Indexing in 3D Arrays
 - Learned NumPy Array Slicing
 - Learned Start, Stop, and Step
 - Practiced 1D Array Slicing
-- Practiced Negative Step and Reverse Slicing
+- Practiced Negative Step and Reverse 
+  Slicing
 - Practiced 2D Array Slicing
 - Practiced Row and Column Slicing
-- Practiced 3D Array Slicing
-- Connected NumPy Slicing with AI/ML Data and Tensors
+- Practiced 3D Array Slicing 
 
 ### Status
 
@@ -519,7 +546,6 @@
 - Learned `np.eye()`
 - Learned `np.diag()`
 - Learned `np.zeros_like()`, `np.ones_like()`, and `np.full_like()`
-- Connected array creation with AI/ML data preparation
 
 ### Status
 
@@ -545,8 +571,23 @@
   `@`
 - Understood the difference between 
   `*` and `@`
-- Connected Arithmetic Operations 
-  with AI/ML and Neural Networks
+ 
+### Status
+
+✅ Completed.....
+
+## Day 23 - 28 August 2026
+
+### Topics Covered
+
+- Learned NumPy Comparison Operations
+- Practiced Element-wise Comparisons
+- Learned Boolean Arrays
+- Learned `np.logical_and()`
+- Learned `np.logical_or()`
+- Learned `np.logical_not()`
+- Learned `&`, `|`, and `~` operators
+- Practiced Combining Multiple Conditions
 
 ### Status
 
