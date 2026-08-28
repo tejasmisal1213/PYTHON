@@ -233,12 +233,7 @@
 
 ✅ Day 7 Completed.....
 
-
-
-# Day 8 - 12 August 2026
-
----
-
+ 
 # Day 8 - 12 August 2026
 
 ## Topics Covered
@@ -525,6 +520,33 @@
 - Learned `np.diag()`
 - Learned `np.zeros_like()`, `np.ones_like()`, and `np.full_like()`
 - Connected array creation with AI/ML data preparation
+
+### Status
+
+✅ Completed.....
+
+## Day 23 - 28 August 2026
+
+### Topics Covered
+
+- Learned NumPy Arithmetic Operations
+- Practiced Addition, Subtraction, 
+  Multiplication, and Division
+- Learned Floor Division, Modulus, 
+  and Power
+- Learned Scalar Operations
+- Learned Array-to-Array Operations
+- Learned In-Place Arithmetic 
+  Operations
+- Learned NumPy Arithmetic Functions
+- Practiced 2D Array Arithmetic
+- Learned Element-wise Multiplication
+- Learned Matrix Multiplication using 
+  `@`
+- Understood the difference between 
+  `*` and `@`
+- Connected Arithmetic Operations 
+  with AI/ML and Neural Networks
 
 ### Status
 
