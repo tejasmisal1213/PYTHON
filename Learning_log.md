@@ -592,3 +592,23 @@
 ### Status
 
 ✅ Completed.....
+
+## Day 24 - 29 August 2026
+
+### Topics Covered
+
+- Learned NumPy Aggregation Functions
+- Learned `np.sum()`
+- Learned `np.prod()`
+- Learned `np.min()` and `np.max()`
+- Learned `np.mean()` and `np.median()` 
+- Practiced Aggregation with `axis`
+- Learned `np.argmin()` and `np.argmax()`
+- Understood Value vs Index based 
+  aggregation
+- Connected Aggregation Functions 
+  with AI/ML data analysis and classification
+
+### Status
+
+✅ Completed.....
