@@ -612,3 +612,23 @@
 ### Status
 
 ✅ Completed.....
+
+## Day 25 - 30 August 2026
+
+### Topics Covered
+
+- Learned NumPy Statistical Functions
+- Learned Percentiles
+- Learned Range
+- Learned Cumulative Sum and Product
+- Learned Covariance
+- Learned Correlation
+- Learned Unique Values and Counts
+- Learned Histogram
+- Learned Weighted Average
+- Learned Consecutive Differences 
+  using `np.diff()`
+
+### Status
+
+✅ Completed.....
