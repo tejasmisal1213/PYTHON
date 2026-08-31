@@ -632,3 +632,22 @@
 ### Status
 
 ✅ Completed.....
+
+## Day 26 - 31 August 2026
+
+### Topics Covered
+
+- Learned NumPy Array Reshaping
+- Practiced `reshape()`
+- Learned shape and element-count 
+  requirements
+- Learned automatic dimension 
+  calculation using `-1`
+- Practiced 2D and 3D reshaping
+- Learned `reshape(-1)` for 1D 
+  conversion
+- Understood `reshape()` vs `resize()`
+
+### Status
+
+✅ Completed.....
