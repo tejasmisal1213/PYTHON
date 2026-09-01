@@ -651,3 +651,22 @@
 ### Status
 
 ✅ Completed.....
+
+## Day 27 - 1 September 2026
+
+### Topics Covered
+
+- Learned NumPy `flatten()`
+- Learned NumPy `ravel()`
+- Learned `reshape(-1)` for 1D 
+  conversion
+- Understood the difference between 
+  copy and view
+- Practiced how `flatten()` does not 
+  affect the original array
+- Practiced how `ravel()` can affect 
+  the original array when it returns a view.
+
+### Status
+
+✅ Completed.....
