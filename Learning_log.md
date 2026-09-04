@@ -682,3 +682,12 @@
 ### Status
 
 ✅ Revision Completed.....
+
+## Day 29-31 - 3,4,5 September 2026
+### Topics Covered
+- Focused on college test preparation
+- Revised previously learned concepts
+- No new programming topic due to college tests
+
+### Status
+✅ Study / Revision Day.....
