@@ -698,3 +698,26 @@
 
 ### Status
 ✅ Study / Revision Day.....
+
+
+### `Learning_log.md` — Day 32
+
+```md
+## Day 31 - 6 September 2026
+### Topics Covered
+- Learned NumPy Transpose
+- Practiced `.T` for 2D arrays
+- Learned `np.transpose()`
+- Understood how transpose changes rows 
+  into columns and columns into rows
+- Practiced transpose with 2D arrays
+- Learned axes in 3D arrays
+- Understood `axis=0`, `axis=1`, and 
+  `axis=2`
+- Learned transpose with custom axis 
+  order
+- Practiced `np.transpose(arr, (1, 0, 
+  2))`
+   
+### Status
+✅ Completed.....
