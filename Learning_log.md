@@ -683,7 +683,7 @@
 
 ✅ Revision Completed.....
 
-## Day 29-31 - 3,4,5 September 2026
+## Day 29-30 - 3,4 September 2026
 ### Topics Covered
 - Focused on college test preparation
 - Revised previously learned concepts
@@ -692,7 +692,7 @@
 ### Status
 ✅ Study / Revision Day.....
 
-## Day 30 - 5 September 2026
+## Day 31 - 5 September 2026
 ### Topics Covered
 - Revised previously learned concepts
 
@@ -700,10 +700,8 @@
 ✅ Study / Revision Day.....
 
 
-### `Learning_log.md` — Day 32
-
-```md
-## Day 31 - 6 September 2026
+ 
+## Day 32 - 6 September 2026
 ### Topics Covered
 - Learned NumPy Transpose
 - Practiced `.T` for 2D arrays
@@ -719,5 +717,23 @@
 - Practiced `np.transpose(arr, (1, 0, 
   2))`
    
+### Status
+✅ Completed.....
+
+## Day 33 - 7 September 2026
+### Topics Covered
+- Learned NumPy `concatenate()`
+- Practiced `concatenate()` with `axis=0`
+- Practiced `concatenate()` with `axis=1`
+- Learned NumPy `vstack()`
+- Learned NumPy `hstack()`
+- Learned NumPy `stack()`
+- Practiced `stack()` with different 
+  axis positions
+- Understood the difference between 
+  concatenation and stacking
+- Understood shape changes during 
+  concatenation and stacking
+
 ### Status
 ✅ Completed.....
