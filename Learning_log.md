@@ -737,3 +737,12 @@
 
 ### Status
 ✅ Completed.....
+
+## Day 34 - 8 September 2026
+
+- Revised previously learned concepts
+- No new programming topic due to 
+  traveling.
+
+### Status
+✅ Completed.....
